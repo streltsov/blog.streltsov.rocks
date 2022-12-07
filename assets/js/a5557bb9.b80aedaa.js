@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_streltsov_rocks=self.webpackChunkblog_streltsov_rocks||[]).push([[991],{3885:s=>{s.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

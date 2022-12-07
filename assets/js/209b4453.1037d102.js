@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_streltsov_rocks=self.webpackChunkblog_streltsov_rocks||[]).push([[845],{6696:s=>{s.exports=JSON.parse('{"permalink":"/tags/docusaurus","page":1,"postsPerPage":4,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_streltsov_rocks=self.webpackChunkblog_streltsov_rocks||[]).push([[197],{7283:s=>{s.exports=JSON.parse('{"permalink":"/tags/hola","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

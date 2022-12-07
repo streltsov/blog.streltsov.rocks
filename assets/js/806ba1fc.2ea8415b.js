@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_streltsov_rocks=self.webpackChunkblog_streltsov_rocks||[]).push([[50],{3826:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/tags/facebook","allTagsPath":"/tags","count":1}')}}]);
